@@ -1,0 +1,7 @@
+Nombre productor	Indicador	longitud	latitud
+Steven	NAMA-Ganaderia	-84.8594	10.3849
+Wailer	Produccion sostenible	-84.9864	10.4566
+Kevin	Bandera Azul	-84.8072	10.4807
+Juan Pablo	Produccion Organica	-84.9893	10.5091
+Gloriana	Proyecto IMAS	-85.0032	10.5822
+Xinia	MRV	-84.9163	10.4940
